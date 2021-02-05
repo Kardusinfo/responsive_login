@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kardusinfo/responsive_login">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Ngedev - Login Page</h3>
@@ -111,4 +111,4 @@ Kardusinfo - [@kardusinfo_](https://instagram.com/kardusinfo_) - kardusinfo.com@
 
 Project Link: [https://github.com/Kardusinfo/responsive_login](https://github.com/Kardusinfo/responsive_login)
 
-[product-screenshot]: assets/images/screenshot.png
+[product-screenshot]: screenshot/screenshot.png

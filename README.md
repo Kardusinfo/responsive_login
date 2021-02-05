@@ -109,6 +109,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kardusinfo - [@kardusinfo_](https://instagram.com/kardusinfo_) - kardusinfo.com@gmail.com
 
+Flutter Developer
+Candra Prasetya - [@candraramesthy](https://instagram.com/candraramesthy)
+
+UI Designer
+Galih Rizal - [@galihrizal06](https://www.instagram.com/galihrizal06/)
+
+
 Project Link: [https://github.com/Kardusinfo/responsive_login](https://github.com/Kardusinfo/responsive_login)
+Design Preview Link: [https://www.instagram.com/p/CInPzmIgJnL/](https://www.instagram.com/p/CInPzmIgJnL/)
 
 [product-screenshot]: screenshot/screenshot.png

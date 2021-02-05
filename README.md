@@ -52,7 +52,7 @@ This project is the process of making a flutter application from the UI design t
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+In this project, we had the opportunity to try one of the frameworks for UI design purposes.
 * [Flutter](https://flutter.dev)
 
 

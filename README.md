@@ -63,7 +63,7 @@ the first step to starting the project is to prepare the following requirements.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To start this project, we need to prepare some of the following requirements:
 * flutter beta
   ```sh
   flutter channel beta
